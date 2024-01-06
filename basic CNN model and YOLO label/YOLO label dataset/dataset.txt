@@ -1,0 +1,2 @@
+use yolov8 to label bee 
+bee groups dataset url : https://universe.roboflow.com/ahmedelmogtaba-ali/honey_bees_dataset/dataset/5
